@@ -5,7 +5,7 @@ Created on Wed Mar  1 03:23:17 2023
 @author: PC
 """
 
-print('welcome to my computer game')
+print('welcome to my Computer Game')
 
 playing = input('do you want to play? ')
 if playing.lower() != 'yes':
